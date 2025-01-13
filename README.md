@@ -1,9 +1,9 @@
-# Github_Profile_Viewer
+# GitPeek
 A modern web application that allows users to search and display information about a GitHub profile by entering a GitHub username. The app fetches profile data using the GitHub API and displays key details such as the profile picture, username, followers, and repositories.
 
 ## Live Demo
 
-Check out the live demo [here](https://dishadewangan.github.io/Github_Profile_Viewer/).
+Check out the live demo [here](https://dishadewangan.github.io/GitPeek/).
 
 ## Features
 
@@ -23,12 +23,12 @@ Check out the live demo [here](https://dishadewangan.github.io/Github_Profile_Vi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/github-profile-viewer.git
+   git clone https://github.com/dishadewangan/GitPeek.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd github-profile-viewer
+   cd GitPeek
    ```
 
 3. Open the `index.html` file in a web browser.
